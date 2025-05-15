@@ -1,0 +1,28 @@
+#div{
+    height: 200px;
+    width: 200px;
+    background-color:chocolate;
+}
+
+#button{
+    padding: 10px 15px 10px 15px;
+    margin: 100px;
+    border: dotted red ;
+    border-radius: 20px;
+}
+
+#box1{
+    box-sizing: border-box;
+    background-color: aquamarine;
+    height: 100px;
+    width: 100px;
+    padding: 20px;
+}
+
+#box2{
+    box-sizing: content-box;
+    background-color: chartreuse;
+    height: 100px;
+    width: 100px;
+    padding: 20px;
+}
